@@ -3,7 +3,7 @@ const root = new Vue (
         el : "#root",
         data: {
             messaggio: "ciao a tutti",
-            immaggine: "https://picsum.photos/200/300",
+            immagine: "https://picsum.photos/200/300",
         }
 
     }
